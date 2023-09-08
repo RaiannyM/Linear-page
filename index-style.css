@@ -1,0 +1,158 @@
+.background{
+    background-color: #16151c;
+    color: white;
+}
+
+header{
+    border-bottom: 1px solid #2d2e30;
+}
+
+footer{
+    border-top: 1px solid #2d2e30;
+}
+
+.header-links a{
+    padding: 0 10px;
+    color: #a5acb3;
+    font-size: 14px;
+}
+
+.header-links a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.blocks-border{
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: #27282d;
+}
+
+.blocks-division{
+    border-bottom: 1px solid #1a1920;
+}
+
+.block-element{
+    border-right: 1px solid #1a1920;
+    padding: 30px 30px !important;
+    margin: 0;
+    font-size: 15px;
+}
+
+.divisor{
+    height: 1px;
+    background-color: #2d2e30;
+    margin: 30px 0;
+}
+
+.section-container1{
+    width: 50% !important;
+}
+
+.section-margin{
+    padding: 8rem 0;
+    margin-bottom: 20px;
+}
+
+.form-style{
+    background: #2c2c35;
+    border-radius: 5px;
+    padding: 5px;
+    width: fit-content;
+}
+
+.email-input{
+    padding: 10px;
+    border: none;
+    background: transparent;
+}
+
+.btn-input{
+    border-radius: 5px;
+    border: none;
+    background: blue;
+    color: white;
+    padding: 8px;
+}
+
+.intro{
+    letter-spacing: 16px;
+    text-transform: uppercase;
+    color: #a5acb3;
+}
+
+.title1{
+    font-size: 60px;
+}
+
+.subtitle1{
+    font-size: 18px;
+    color: #a5acb3;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.header-title{
+    display: flex;
+    align-items: center;
+}
+
+.site-img{
+    width: 140%;
+    margin-top: 20px;
+}
+
+.secondary-background{
+    background-color: #1a1920;
+}
+
+.section-container2{
+    width: 65% !important;
+}
+
+.section-name{
+    color: blue;
+}
+
+.description{
+    color: #a5acb3;
+}
+
+.d-grid{
+    display: grid;
+}
+
+.bold{
+    font-weight: 500;
+}
+
+.text-icon{
+    color: #626bc9;
+    font-weight: bold;
+}
+
+.user-img{
+    width: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.desc-font{
+    font-size: 14px;
+}
+
+.last-img{
+    width: 70%;
+    border-radius: 0 0px 5px 0;
+}
+
+.img-col{
+    align-content: end;
+    display: grid;
+    justify-items: end;
+    padding-right: 0 !important;
+}
